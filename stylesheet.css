@@ -9,7 +9,7 @@ body {
   margin-bottom: 50px
 }
 
-.content {
+#wrap {
   max-width: 500px;
   margin: auto;
 }
