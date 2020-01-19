@@ -6,13 +6,21 @@ body {
 }
 
 h1 {
+ font-family: Georgia1;
+}
+
+h3 {
  font-family: Georgia;
+}
+
+h4 { 
+ font family: Times New Roman;
 }
 
 .header {
   margin-bottom: 50px
 }
-
+ 
 #wrap {
   max-width:700px;
   margin: auto;
