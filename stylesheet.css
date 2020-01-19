@@ -5,6 +5,10 @@ body {
  padding-bottom: 50px;
 }
 
+h1 {
+ font-family: Georgia;
+}
+
 .header {
   margin-bottom: 50px
 }
