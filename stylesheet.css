@@ -1,7 +1,10 @@
 body {
- background: #eee;
+ background: #FFFFF0;
  font-family: monospace;
- color: #222;
  font-size: 16px;
  padding-bottom: 50px;
+}
+
+.header {
+  margin-bottom: 50px
 }
